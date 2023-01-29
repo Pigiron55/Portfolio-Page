@@ -269,6 +269,7 @@ header {
         rgb(0 0 0 / 0.5) ,
         rgb(0 0 0 / 0)
     );
+    border-radius:50%;
 }
 
 .section__subtitle--intro {
